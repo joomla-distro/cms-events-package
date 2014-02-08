@@ -1,6 +1,6 @@
 {
     "name": "joomla-distro/cms-events-package",
-    "type": "composer-plugin",
+    "type": "Library",
     "license": "GPLv3",
     "description": "Joomla Composer Package Event Installer",
     "keywords": ["joomla", "distro", "events", "package-installer"],
