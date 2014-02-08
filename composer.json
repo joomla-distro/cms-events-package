@@ -1,0 +1,18 @@
+{
+    "name": "joomla-distro/cms-events-package",
+    "type": "composer-plugin",
+    "license": "GPLv3",
+    "description": "Joomla Composer Package Event Installer",
+    "keywords": ["joomla", "distro", "events", "package-installer"],
+    "homepage": "https://github.com/joomla-distro/cms-events-package",
+    "authors": [
+        {
+            "name": "Julio Pontes",
+            "email": "juliopfneto@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "autoload": {
+        "psr-4": {"JDistro\\Composer\\Package\\": "src/"}
+    }
+}
