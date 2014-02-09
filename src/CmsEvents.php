@@ -1,5 +1,5 @@
 <?php
-namespace JDistro\Composer\Package;
+namespace JDistro\Package;
 
 use JDistro\Composer\BaseInstaller;
 
@@ -7,7 +7,7 @@ use JDistro\Composer\BaseInstaller;
  * CMS Events installer class
  *
  * @author  Julio Pontes <https://github.com/juliopontes>
- * @package JDistro\Composer
+ * @package JDistro\Package
  */
 class CmsEvents extends BaseInstaller
 {

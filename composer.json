@@ -13,6 +13,6 @@
         }
     ],
     "autoload": {
-        "psr-4": {"JDistro\\Composer\\Package\\": "src/"}
+        "psr-4": {"JDistro\\Package\\": "src/"}
     }
 }
