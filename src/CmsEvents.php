@@ -2,6 +2,8 @@
 namespace JDistro\Package;
 
 use JDistro\Composer\BaseInstaller;
+use Composer\Package\PackageInterface;
+use Composer\Repository\InstalledRepositoryInterface;
 
 /**
  * CMS Events installer class
